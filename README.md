@@ -7,7 +7,7 @@ A simple CAS client for Clojure, for use as a middleware with Ring.
 To install, add this to your project.clj:
 
 ```clojure
-  :dependencies [[clj-cas-client "0.0.5"]]
+  :dependencies [[clj-cas-client "0.0.6"]]
 ```
 
 To wrap a handler with cas:
